@@ -1,4 +1,9 @@
 I forked this repo 19 Jan 2025 @ 12:10<br>
+
+## IDE
+https://ide.scriptwiz.app/
+
+below is the original fork readme.md
 VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 
 # Learn bitcoin script
@@ -14,3 +19,4 @@ https://www.youtube.com/watch?v=C9wf14vlLOc
 ## Link to what we are going to build
 
 [https://supertestnet.github.io/learn-btc-script/](https://supertestnet.github.io/learn-btc-script/)
+
