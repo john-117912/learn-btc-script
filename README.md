@@ -1,3 +1,6 @@
+I forked this repo 19 Jan 2025 @ 12:10
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+
 # Learn bitcoin script
 
 ## Video
