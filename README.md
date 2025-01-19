@@ -3,6 +3,9 @@ I forked this repo 19 Jan 2025 @ 12:10<br>
 ## IDE
 https://ide.scriptwiz.app/
 
+## Bitcoin Core Download
+https://bitcoincore.org/en/download/
+
 below is the original fork readme.md<br>
 VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
 
